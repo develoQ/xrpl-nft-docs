@@ -1,0 +1,39 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^http"
+    },
+    {
+      "pattern": "^(?!\/).*$"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "#.*$",
+      "replacement": ""
+    },
+    {
+      "pattern": "^(?<path>.*)?(?!.png$)$",
+      "replacement": "$<path>.md"
+    },
+
+    {
+      "pattern": ".png.md",
+      "replacement": ".png"
+    },
+    {
+      "pattern": "^/manual_pic",
+      "replacement": "{{BASEURL}}/public/manual_pic"
+    },
+    {
+      "pattern": "^/",
+      "replacement": "{{BASEURL}}/pages/"
+    }
+  ],
+  "httpHeaders": [],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}

@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "md-check": "find ./pages *.md -type f -print0 | xargs -0 -n1 markdown-link-check -c config.json"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   },
   "devDependencies": {
     "@types/node": "18.11.10",
+    "markdown-link-check": "^3.11.2",
     "typescript": "^4.9.3"
   }
 }
