@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
     link: "https://github.com/develoQ/xrpl-nft-docs",
   },
   chat: {
-    link: "https://discord.gg/64ad9mc5N6",
+    link: "https://discord.gg/7Q3MUuTRer",
   },
   docsRepositoryBase: "https://github.com/develoQ/xrpl-nft-docs",
   footer: {
