@@ -1,4 +1,6 @@
-# NFTを受け取る　XRP easy NFT
+<link href="/cmn.css" rel="stylesheet"></link>
+
+# NFTを受け取る　xrp.cafe
 
 <!----------------------------------------------->
 <a id="07_02_01"></a>

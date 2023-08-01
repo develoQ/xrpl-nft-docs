@@ -1,5 +1,11 @@
-# XRPL NFT はじめてガイド！
+<link href="/cmn.css" rel="stylesheet"></link>
 
+# XRPL NFT はじめてガイド
+
+高速・安全・低コストなXRPL NFTのはじめかたをご紹介します。  
+わからないことがあれば、XRPL NFTのディスコードでご質問ください。
+
+- [XRPLNFTJP Discordサーバー](https://discord.gg/7Q3MUuTRer)
 
 <!----------------------------------------------->
 ## XRPL NFTの始め方
@@ -60,7 +66,7 @@
 
 - [エディションNFTの発行](/03_about/02_memo#エディションnftの発行)
 - [taxonとコレクションNO.](/03_about/02_memo#taxonとコレクションno)
-- [アドレスを好きな文字列に変更.](/03_about/02_memo#アドレスを好きな文字列にできる-vanity-address有料)
+- [アドレスを好きな文字列に変更](/03_about/02_memo#アドレスを好きな文字列にできる-vanity-address有料)
 - [xumm pro beta](/03_about/02_memo#xumm-pro-beta有料)
 
 
@@ -70,6 +76,3 @@
 <!----------------------------------------------->
 ## [リンク集](04_links)
 <!----------------------------------------------->
-
-わからないことがあればXRPL　NFTのディスコードチャンネルなどでご質問ください。
-[XRPLNFTJP Discordサーバー](https://discord.gg/7Q3MUuTRer)

@@ -1,3 +1,5 @@
+<link href="/cmn.css" rel="stylesheet"></link>
+
 # リンク集
 
 

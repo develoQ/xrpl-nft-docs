@@ -1,6 +1,8 @@
+<link href="/cmn.css" rel="stylesheet"></link>
+
 # xummウォレットを用意する
 
-XRPL NFTでは、スマホアプリの **Xumm** をウォレットとして使用します。
+XRPL NFTでは、スマホアプリの **Xumm** をウォレットとして使用します。  
 ETHチェーンでのメタマスクに相当します。
 
 
@@ -20,16 +22,16 @@ ETHチェーンでのメタマスクに相当します。
 
 ### 1. 6ケタのパスコードを設定する
 
-![sample](/manual_pic/01_02_pic011.png)
+<span class="solo">![sample](/manual_pic/01_02_pic01.png)</span>
 
 
 ### 2. 注意事項に同意する
 安全のための注意事項が数ページに渡って並びます。
 読んでから各ページの「了承しました」にチェックマークを入れましょう。
 
-![sample](/manual_pic/01_02_pic02.png)
+<span class="solo">![sample](/manual_pic/01_02_pic02.png)</span>
 
-![sample](/manual_pic/01_02_pic02.png)
+<span class="solo">![sample](/manual_pic/01_02_pic02.png)</span>
 
 
 <!----------------------------------------------->
@@ -40,25 +42,25 @@ ETHチェーンでのメタマスクに相当します。
 ### 1. アカウントを作成
 「新しいアカウントを追加する」をタップ
 
-![sample](/manual_pic/01_02_pic04.png)
+<span class="solo">![sample](/manual_pic/01_02_pic04.png)</span>
 「新しいアカウントを作成する」をタップ
 
-![sample](/manual_pic/01_02_pic05.png)
+<span class="solo">![sample](/manual_pic/01_02_pic05.png)</span>
 
 
 ### 2. 秘密の数字グループをメモする
 
-![sample](/manual_pic/01_02_pic062.png)
+<span class="solo">![sample](/manual_pic/01_02_pic062.png)</span>
 
 
 ### 3. 「確認」画面でメモした数字を入力していく
 
-![sample](/manual_pic/01_02_pic07.png)
+<span class="solo">![sample](/manual_pic/01_02_pic07.png)</span>
 
 
 ### 4. パブリックアドレス[^1]が発行される
 
-![sample](/manual_pic/01_02_pic09.png)
+<span class="solo">![sample](/manual_pic/01_02_pic09.png)</span>
 
 [^1]: パブリックアドレス…送受信に使うアドレス
 
@@ -75,18 +77,18 @@ ETHチェーンでのメタマスクに相当します。
 標準のセキュリティと、高度なセキュリティのどちらかを選択できます。
 NFTの取引を目的としているので、標準のセキュリティを選択した場合で進めます。
 
-![sample](/manual_pic/01_02_pic011.png)
+<span class="solo">![sample](/manual_pic/01_02_pic011.png)</span>
 
 
 ### 2. アカウント名を設定
 アカウントに名前を付けます。
 
-![sample](/manual_pic/01_02_pic012.png)
+<span class="solo">![sample](/manual_pic/01_02_pic012.png)</span>
 
 名前を付けたら、アカウントの設定は完了です。
 「さあ、行きましょう！」から次へ進みます。
 
-![sample](/manual_pic/01_02_pic013.png)
+<span class="solo">![sample](/manual_pic/01_02_pic013.png)</span>
 
 
 ### 3. 10XRP以上を作成したアカウントに送金
@@ -94,10 +96,10 @@ NFTの取引を目的としているので、標準のセキュリティを選�
 **10XRP** 以上のXRPを送金してアクティベート（有効化）することで、アカウントを操作することができるようになります。
 「アカウントのQRコードを表示」をタップすると表示されるアドレスに、取引所などからXRPを送金します。
 
-![sample](/manual_pic/01_02_pic014.png)
+<span class="solo">![sample](/manual_pic/01_02_pic014.png)</span>
 
 
 ### 4. アクティベート完了
 10XRPが着金するとウォレットの準備は完了です。
 
-![sample](/manual_pic/01_02_pic015.png)
+<span class="solo">![sample](/manual_pic/01_02_pic015.png)</span>
